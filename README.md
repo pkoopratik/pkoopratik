@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pranav Tanpure</h1>
+<h1 align="center">Hi 👋, I'm Pratik Kalaskar (known as PK)</h1>
 <p align="center">
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=pranav280300&hide_border=true'/>
 </p>
 
-<!-- <p align="center">
-    <a href="https://www.buymeacoffee.com/pranav280300" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p> -->
+
 
 
 ### Experience
-- I am a **4th Year Computer Science Undergraduate** student at Manipal University Jaipur.
+- I am a **4th Year Computer Science Undergraduate** student at IIIT jabalpur.
 - SDE Intern at Clappia
 - Ex-Full-Stack Intern at Quicko.
 - worked at Campk12 as a web development instructor. 
