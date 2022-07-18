@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Kalaskar (known as PK)</h1>
+<h1 align="center">Hi 👋, I'm Pratik Kalaskar (also known as PK)</h1>
 <p align="center">
 </p>
 <p align='center'>
