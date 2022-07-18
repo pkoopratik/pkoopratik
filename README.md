@@ -4,13 +4,13 @@
 <p align='center'>
   <table align='center' cellspacing="0" cellpadding="0">
     <tr align='center'>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=apanjwani0&show_icons=true&count_private=true&theme=dark" width="500" alt="apanjwani0"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=pkoopratik&show_icons=true&count_private=true&theme=dark" width="500" alt="pkoopratik"></td>
     </tr>
     <tr align='center'>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apanjwani0&hide_border=true" alt="apanjwani0" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkoopratik&hide_border=true" alt="pkoopratik" /></td>
       </tr>
     <tr align='center'>
-    <td><img align-"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanjwani0&hide=scss&langs_count=6&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Aman Panjwani's Top Languages"/></td>
+    <td><img align-"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkoopratik&hide=scss&langs_count=6&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Pratik kalaskar's Top Languages"/></td>
     </tr>
     </table>
 </p>
