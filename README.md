@@ -7,16 +7,15 @@
 
 ### Experience
 - I am a **4th Year Computer Science Undergraduate** student at IIIT jabalpur.
-- SDE Intern at Clappia
-- Ex-Full-Stack Intern at Quicko.
-- worked at Campk12 as a web development instructor. 
+- Interested in Data Structures and Algorithms
+- Full-Stack developer
 ###  About me
-- 🔭 I’m currently working on *developing skills, javascript, side projects, flutter,problem solving*.
-- 🌱 I’m currently learning anything *related to Javascript, GraphQL,Flutter, React.*
+- 🔭 I’m currently working on *developing skills, javascript, side projects,problem solving*.
+- 🌱 I’m currently learning anything *related to Javascript, GraphQL, React,MongoDB.*
 - 🤔 Anyone looking for help can reach out.
-- 💬 Ask me about *Javascript, MERN stack, Flutter and softwares that scale.*
-- 📫 How to reach me: Email me at - **pranav280300@gmail.com**
-- ⚡ Fun fact: *I love JavaScript & Dart ❤️* 
+- 💬 Ask me about *Javascript, MERN stack softwares that scale.*
+- 📫 How to reach me: Email me at - **2019114@iiitdmj.ac.in**
+- ⚡ Fun fact: *I love Cricket,non veg....u can challenge me in chess ❤️* 
 ###  My Skills
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
 
